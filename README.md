@@ -10,5 +10,5 @@ task completer can response to notes as well as feed to system nature of the tas
 ## development stratergy
 
 - React Js(Front End)
-- Backend(python)
+- Backend(Node Js)
 - Database(Mongo DB)   
